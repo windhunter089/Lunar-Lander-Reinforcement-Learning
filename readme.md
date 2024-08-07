@@ -12,7 +12,7 @@ The Lunar Lander environment is an 8-dimensional state space problem with six co
 
 The objective is to land the lunar lander safely on the landing pad at coordinates (0,0) by controlling the engines.
 
-![LunarLander Description](figure/Lunar_Lander.png)
+![LunarLander Description](figure/Lunar_Lander.gif)
 
 ## Implementation
 
